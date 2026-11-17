@@ -1,0 +1,11 @@
+{
+    "name": "bca/expense-tracker",
+    "description": "Personal Expense Tracker built with PHP 8 and MongoDB (BCA project)",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.0",
+        "ext-mongodb": "*",
+        "mongodb/mongodb": "^2.5"
+    }
+}
